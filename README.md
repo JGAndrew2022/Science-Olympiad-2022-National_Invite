@@ -1,6 +1,7 @@
 # Science-Olympiad-2022-National_Invite
 
 **Competition Details**
+
 a. Participants aim to predict labels from features using a computational model. Tasks, provided by the
 Event Supervisor, will consist of a Training Dataset and a Test Dataset. The Training Dataset consists
 of features and labels, while the Test Dataset only contains features. The performance of each model
